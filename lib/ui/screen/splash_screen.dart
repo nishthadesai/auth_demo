@@ -20,7 +20,7 @@ class _SplashScreenState extends State<SplashScreen> {
               onPressed: () {
                 authStore.signInWithGoogle();
               },
-              child: const Text("Sign in with google"),
+              child: const Text("Sign with google"),
             ),
           )
         ],
